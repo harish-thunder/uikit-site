@@ -308,7 +308,7 @@ Add the `ratio: 2` parameter to the `uk-icon` attribute to double its size – o
 To reset the default link styling to a more muted color when using an icon inside an anchor, add the `.uk-icon-link` class.
 
 ```html
-<a href="" class="uk-icon-link" uk-icon="heart"></a>
+<a href="" class="uk-icon-link" uk-icon="heart-filled"></a>
 ```
 
 ```example
